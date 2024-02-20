@@ -7,7 +7,8 @@ This topology represents the starting of the network:
 
  Built out the network infrastructure for the small business environment.  Built the networks on the FortiNet firewall (FortiGate).
 
-![image](https://github.com/agardiner17/Net-Lab-2024/assets/160628597/73f09fa1-9fe0-49d0-a6f1-91f7b61c11c0)
+![Network+ Stage 1A](https://github.com/agardiner17/Net-Lab-2024/assets/160628597/b80347d2-6919-4483-a403-9995771ed78a)
+
 
 ### STAGE 2 - TOPOLOGY
 
