@@ -30,7 +30,7 @@ Built a LAMP webserver onto the Ubuntu server on the DMZ network.
 
 Built a FTP server on a Win2012r2 server to the DMZ workspace.
 
-
+![Network+ Lab Stage 5](https://github.com/agardiner17/Net-Lab-2024/assets/160628597/56d15e5c-c598-4325-b680-0df35547b6ad)
 
 ### STAGE 6 - Hardening The Environment:
 
